@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📊 LinkedIn Scraper - Multi-Page JSON to CSV Converter")
+st.title("📊 Apollo Scraper")
 st.markdown("Paste JSON data from each Apollo page below. All data will be combined into a single CSV.")
 
 # Helper function to extract people/contacts data from JSON (universal)
